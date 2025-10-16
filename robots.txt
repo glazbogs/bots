@@ -1,4 +1,5 @@
 User-agent: *
 User-agent: Yandex
-Sitemap: https://glazbogaofficial.github.io/eyeofgod/sitemap.xml
-Host: https://glazbogaofficial.github.io/eyeofgod/
+Sitemap: https://glazbogs.github.io/bots/sitemap.xml
+Host: https://glazbogs.github.io/bots/
+
